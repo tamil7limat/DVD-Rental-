@@ -8,3 +8,4 @@ tensorflow
 seaborn
 pybase64
 streamlit
+psycopg2
